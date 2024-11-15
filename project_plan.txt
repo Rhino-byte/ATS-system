@@ -1,0 +1,4 @@
+1. Field to put my Job description
+2. Upload PDF
+3. Convert PDF to image  --->processing --> Google Gemini Pro model
+4. Prompts Template[multiple Prompts]
