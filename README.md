@@ -1,11 +1,11 @@
-# Create-conda-env
-We venture into how to create a project  End to End Resume Application Tracking System
 
-![image](https://github.com/user-attachments/assets/a27968cb-5bb5-4fef-a047-79a7e7ac4a2e)
+![image](https://github.com/user-attachments/assets/5c59e5dd-7dc6-4b88-9875-9ce6d937b6e0)
+
 
 
 
 # ATS (Applicant Tracking System) with Generative AI
+
 
 ## 📄 Project Overview
 This project demonstrates the creation of an **Applicant Tracking System (ATS)** powered by **Generative AI (GenAI)** models. The system leverages AI capabilities to streamline recruitment processes by:
@@ -96,6 +96,8 @@ ATS-GenAI/
 ```
 
 ---
+
+![image](https://github.com/user-attachments/assets/a27968cb-5bb5-4fef-a047-79a7e7ac4a2e)
 
 ## 🧪 Example Scenarios
 ### Scenario 1: Job Description Generation
