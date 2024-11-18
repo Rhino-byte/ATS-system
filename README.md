@@ -50,15 +50,16 @@ By integrating GenAI, the ATS provides smarter, faster, and more accurate talent
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ATS-GenAI.git
-   cd ATS-GenAI
+   git clone https://github.com/yourusername/ATS-system.git
+   cd ATS-system
    ```
-2. Install the dependencies:
+2. Load in the environment:
    ```bash
-   pip install -r requirements.txt
+   conda create -f environment.yml
    ```
 3. Set up the GenAI API key:
    - Create a `.env` file in the project directory.
+   - How to create a [GenAI API key](https://aistudio.google.com/app/apikey)
    - Add your API key:
      ```
      OPENAI_API_KEY=your_openai_api_key
