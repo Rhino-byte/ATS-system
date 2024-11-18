@@ -117,7 +117,7 @@ ATS-GenAI/
 ---
 
 ## 👨‍💻 Author
-- **Your Name** - [GitHub Profile](https://github.com/Rhino-byte)
+- **Nanyaemuny Savins** - [GitHub Profile](https://github.com/Rhino-byte)
 
 ---
 
